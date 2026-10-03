@@ -1,0 +1,6 @@
+{
+  "name": "Apex Isle: Battle Royale 3D",
+  "description": "Fast-paced 3D battle royale with an expansive island, drivable vehicles, solo/squad modes, diverse weapons, shrinking safe zones, and fluid mobile controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
